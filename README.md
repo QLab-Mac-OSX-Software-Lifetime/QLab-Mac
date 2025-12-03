@@ -9,7 +9,7 @@
 
 <img src="https://qlab.app/static/qlab-5-icon-1c477fc6fa7937ec57b19bd79b7a815b.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/qlab">
+<a href="https://mac-apps-install.github.io/.github/qlab">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
